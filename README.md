@@ -1,8 +1,8 @@
-Author: Mackenzie Anderson
+**Author:** Mackenzie Anderson
 
-GitHub username: mkenzieanderson
+**GitHub username:** mkenzieanderson
 
-Date: February 2024
+**Date:** February 2024
 
 The following files contain a python implementation of the binary search tree and AVL tree data structures. Both of these tree implementations utilize additionally defined queue and stack data structures for specific methods within their respective classes. Finally, both tree files contain testing code at the end, which also works as a sample of how these tree data structures could be utilized.
 
